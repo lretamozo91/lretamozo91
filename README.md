@@ -34,7 +34,7 @@ Actualmente también desarrollo **AlquiTurno**, una plataforma SaaS para la gest
 
 ![Estadísticas de Luis](https://github-readme-stats-sigma-five.vercel.app/api?username=lretamozo91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=lretamozo91&layout=compact&theme=github_dark)
+![Lenguajes más utilizados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lretamozo91&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true)
 
 ---
 
