@@ -1,6 +1,13 @@
 ## Buenas! Soy Luis Retamozo <img src="<https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif>" width="40" />
 
-⚡ Actualmente trabajo como Senior Software Engineer SMTS en Salesforce, mi foco está en crecer mi conocimiento y performar a mi mejor nivel, todos los días.
+⚡ Soy desarrollador de software con más de 6 años de experiencia en desarrollo web y mobile.
+
+Actualmente trabajo con **React Native, React, Next.js, Node.js, NestJS y TypeScript**, desarrollando aplicaciones, APIs REST y productos SaaS.
+
+He participado en proyectos para empresas y organizaciones como **Claro Pay, Banco BCI, ANSES y Grupo Security**.
+
+Actualmente también desarrollo **AlquiTurno**, una plataforma SaaS para la gestión y reserva de canchas de pádel.
+
 
 ### 📈 Mis stats en GitHub
 <br>
@@ -13,6 +20,7 @@
 <br>
 
 ### 🛠️ Tecnologías y Herramientas que más uso
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <div align="center">
   <!-- Scala -->
   <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg>" alt="Scala" width="40" height="40"/>
@@ -62,8 +70,3 @@
   <a href="<https://twitter.com/intent/follow?screen_name=arielmirra_>" target="_blank"><img src="<https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white>" target="_blank"></a>
   <a href="<https://www.youtube.com/channel/UCVi-wczyA7ZW_iIpd7M5-NA?sub_confirmation=1>" target="_blank"><img src="<https://img.shields.io/badge/Youtube-b2071d?style=for-the-badge&logo=youtube&logoColor=white>" target="_blank"></a>
 </div>
-
-### 🎥 Mi canal de YouTube
-[![Suscriptores en YouTube](<https://img.shields.io/youtube/channel/subscribers/UCVi-wczyA7ZW_iIpd7M5-NA?label=People%20subscribed%20to%20my%20channel&style=social>)](<https://www.youtube.com/channel/UCVi-wczyA7ZW_iIpd7M5-NA?sub_confirmation=1>) 
-[![YouTube Channel Views](<https://img.shields.io/youtube/channel/views/UCVi-wczyA7ZW_iIpd7M5-NA?label=Total%20views%20on%20my%20channel&style=social>)](<https://www.youtube.com/channel/UCVi-wczyA7ZW_iIpd7M5-NA?sub_confirmation=1>)
-<!-- [![Twitter Follow](<https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social>)](<https://twitter.com/intent/follow?screen_name=arielmirra_>)  -->
