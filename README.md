@@ -9,64 +9,38 @@ He participado en proyectos para empresas y organizaciones como **Claro Pay, Ban
 Actualmente también desarrollo **AlquiTurno**, una plataforma SaaS para la gestión y reserva de canchas de pádel.
 
 
-### 📈 Mis stats en GitHub
-<br>
+## 🚀 Tecnologías principales
 
-<div align="center">
-  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api?username=arielmirra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true>"/> 
-  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arielmirra&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true>"/>
-</div>
+### Frontend y Mobile
 
-<br>
-
-### 🛠️ Tecnologías y Herramientas que más uso
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<div align="center">
-  <!-- Scala -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg>" alt="Scala" width="40" height="40"/>
-  <!-- Kotlin -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg>" alt="Kotlin" width="40" height="40"/>
-  <!-- Java -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg>" alt="Java" width="40" height="40"/>
-  <!-- Next.js -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg>" alt="Next.js" width="40" height="40"/>
-  <!-- React Native -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg>" alt="React Native" width="40" height="40"/>
-  <!-- Flutter -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg>" alt="Flutter" width="40" height="40"/>
-  <!-- Spring -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg>" alt="Spring" width="40" height="40"/>
-  <!-- GitHub -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg>" alt="GitHub" width="40" height="40"/>
-  <!-- Golang -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg>" alt="Golang" width="40" height="40"/>
-  <!-- Kubernetes -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg>" alt="Kubernetes" width="40" height="40"/>
-  <!-- Docker -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg>" alt="Docker" width="40" height="40"/>
-  <!-- AWS -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg>" alt="AWS" width="40" height="40"/>
-  <!-- VueJS -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg>" alt="VueJS" width="40" height="40"/>
-  <!-- Angular -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg>" alt="Angular" width="40" height="40"/>
-  <!-- JavaScript -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg>" alt="JavaScript" width="40" height="40"/>
-  <!-- TypeScript -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg>" alt="TypeScript" width="40" height="40"/>
-  <!-- HTML5 -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg>" alt="HTML5" width="40" height="40"/>
-  <!-- CSS3 -->
-  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg>" alt="CSS3" width="40" height="40"/>
-</div>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend y bases de datos
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de Luis](https://github-readme-stats.vercel.app/api?username=lretamozo91&show_icons=true&theme=github_dark)
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=lretamozo91&layout=compact&theme=github_dark)
+
+---
 
  
-### 🫂 Conectemos en redes sociales
-<div align="center">
-  <a href="<https://www.linkedin.com/in/arielmirra/>" target="_blank"><img src="<https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white>" target="_blank"></a> 
-  <a href = "<mailto:amirra@hotmail.com>"><img src="<https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white>" target="_blank"></a>
-  <a href="<https://www.instagram.com/ariel.mirra/>" target="_blank"><img src="<https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white>" target="_blank"></a>
- 	<a href="<https://www.twitch.tv/arielmirra>" target="_blank"><img src="<https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white>" target="_blank"></a>
-  <a href="<https://twitter.com/intent/follow?screen_name=arielmirra_>" target="_blank"><img src="<https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white>" target="_blank"></a>
-  <a href="<https://www.youtube.com/channel/UCVi-wczyA7ZW_iIpd7M5-NA?sub_confirmation=1>" target="_blank"><img src="<https://img.shields.io/badge/Youtube-b2071d?style=for-the-badge&logo=youtube&logoColor=white>" target="_blank"></a>
-</div>
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Retamozo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-retamozo-b69aa4154)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luisretamozodev.netlify.app)
+
+[![Email](https://img.shields.io/badge/Email-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lretamozo91@gmail.com)
