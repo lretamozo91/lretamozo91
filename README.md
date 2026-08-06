@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | React Native | React | Node.js
 
-⚡ Soy desarrollador de software con más de 6 años de experiencia en desarrollo web y mobile.
+⚡ Soy desarrollador de software con más de 7 años de experiencia en desarrollo web y mobile.
 
 Actualmente trabajo con **React Native, React, Next.js, Node.js, NestJS y TypeScript**, desarrollando aplicaciones, APIs REST y productos SaaS.
 
